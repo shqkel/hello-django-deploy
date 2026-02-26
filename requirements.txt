@@ -1,0 +1,5 @@
+django
+gunicorn
+uvicorn
+blacknoise
+django-ebhealthcheck
