@@ -1,7 +1,7 @@
 {
   "AWSEBDockerrunVersion": "1",
   "Image": {
-    "Name": "shqkel/hello-django:v0.0.2",
+    "Name": "shqkel/hello-django-deploy:latest",
     "Update": "true"
   },
   "Ports": [
